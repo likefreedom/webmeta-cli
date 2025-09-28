@@ -12,5 +12,5 @@ A simple command-line tool to fetch the **title** and **meta description** of a 
 
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/webmeta-cli.git
+git clone https://github.com/likefreedom/webmeta-cli.git
 cd webmeta-cli
